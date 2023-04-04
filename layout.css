@@ -1,0 +1,18 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    body{
+        background: linear-gradient(red,pink,green);
+    }
+    h1{
+        background-color: crimson;
+        color: blue;
+        font-size: 70px;
+    }
+    p{
+        background-color: lightskyblue;
+        color: maroon;
+        font-size: 20px;
+        font-style: italic;
+    }
+
